@@ -1,0 +1,15 @@
+C:\Users\Макар\Desktop\projects\Exercises\MakarEducation\Algorithms1Lab\QuickSort\bin\Debug\net6.0\QuickSort.exe
+C:\Users\Макар\Desktop\projects\Exercises\MakarEducation\Algorithms1Lab\QuickSort\bin\Debug\net6.0\QuickSort.deps.json
+C:\Users\Макар\Desktop\projects\Exercises\MakarEducation\Algorithms1Lab\QuickSort\bin\Debug\net6.0\QuickSort.runtimeconfig.json
+C:\Users\Макар\Desktop\projects\Exercises\MakarEducation\Algorithms1Lab\QuickSort\bin\Debug\net6.0\QuickSort.dll
+C:\Users\Макар\Desktop\projects\Exercises\MakarEducation\Algorithms1Lab\QuickSort\bin\Debug\net6.0\QuickSort.pdb
+C:\Users\Макар\Desktop\projects\Exercises\MakarEducation\Algorithms1Lab\QuickSort\obj\Debug\net6.0\QuickSort.csproj.AssemblyReference.cache
+C:\Users\Макар\Desktop\projects\Exercises\MakarEducation\Algorithms1Lab\QuickSort\obj\Debug\net6.0\QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Макар\Desktop\projects\Exercises\MakarEducation\Algorithms1Lab\QuickSort\obj\Debug\net6.0\QuickSort.AssemblyInfoInputs.cache
+C:\Users\Макар\Desktop\projects\Exercises\MakarEducation\Algorithms1Lab\QuickSort\obj\Debug\net6.0\QuickSort.AssemblyInfo.cs
+C:\Users\Макар\Desktop\projects\Exercises\MakarEducation\Algorithms1Lab\QuickSort\obj\Debug\net6.0\QuickSort.csproj.CoreCompileInputs.cache
+C:\Users\Макар\Desktop\projects\Exercises\MakarEducation\Algorithms1Lab\QuickSort\obj\Debug\net6.0\QuickSort.dll
+C:\Users\Макар\Desktop\projects\Exercises\MakarEducation\Algorithms1Lab\QuickSort\obj\Debug\net6.0\refint\QuickSort.dll
+C:\Users\Макар\Desktop\projects\Exercises\MakarEducation\Algorithms1Lab\QuickSort\obj\Debug\net6.0\QuickSort.pdb
+C:\Users\Макар\Desktop\projects\Exercises\MakarEducation\Algorithms1Lab\QuickSort\obj\Debug\net6.0\QuickSort.genruntimeconfig.cache
+C:\Users\Макар\Desktop\projects\Exercises\MakarEducation\Algorithms1Lab\QuickSort\obj\Debug\net6.0\ref\QuickSort.dll
